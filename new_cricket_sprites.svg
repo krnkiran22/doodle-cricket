@@ -1,0 +1,201 @@
+<svg height="9965" viewBox="0 0 596.4 9965.0" width="596.4"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <!-- Cricket Stumps Group -->
+  <g transform="translate(20 20)">
+    <rect x="30.6" y="4.8" width="27.6" height="6.7" fill="#D2691E" rx="2"/>
+    <rect x="53" y="4.8" width="69.1" height="10.6" fill="#F5DEB3" rx="3"/>
+    <line x1="2.5" y1="6.1" x2="34" y2="6" stroke="#8B4513" stroke-width="4.9"/>
+    <circle cx="40.3" cy="7.2" r="7.2" fill="#FFFFFF" stroke="#8B4513" stroke-width="2"/>
+  </g>
+  
+  <!-- Cricket Bat -->
+  <path d="M32.5 97c-1.5 1.6-1.9 3.8-1.2 6.5.4 1.4 1.1 3 2.1 4.4L20 121.3l4.3 4.3 13.4-13.4c4 3 8.7 3.7 11.1 1.2l36.2-36L68.7 61 32.5 97z" fill="#CD853F"/>
+  <path d="M81.1 77.3L47 111.5c-1.6 1.5-5.8.6-9.4-3-1.7-1.8-3-3.9-3.5-5.8-.4-1.6-.3-3 .5-3.7l34.1-34 12.4 12.4z" fill="#F5DEB3"/>
+  
+  <!-- Cricket Player Figure -->
+  <g transform="translate(20 146)">
+    <!-- Player Base/Legs -->
+    <path d="M90.5 127.6H71.7c-5 0-9.5 2.1-12.7 5.5-3.2-3.4-7.7-5.5-12.7-5.5H24.4c-9.8 0-17.7 8-17.7 17.7V181h101.5v-35.7c0-9.7-8-17.7-17.7-17.7z" fill="#4169E1"/>
+    
+    <!-- Cricket Pads -->
+    <path d="M37.8 80.2V9.9m39.3 70.3V9.9" fill="none" stroke="#FFFFFF" stroke-width="7.7"/>
+    <ellipse cx="37.8" cy="9.9" rx="9.9" ry="9.9" fill="#FFFFFF"/>
+    <ellipse cx="76.8" cy="9.9" rx="9.9" ry="9.9" fill="#FFFFFF"/>
+    
+    <!-- Body/Torso -->
+    <linearGradient gradientUnits="userSpaceOnUse" id="playerBody" x1="-.4" x2="115.6" y1="130.1" y2="130.1">
+      <stop offset="0" stop-color="#FF6B6B"/>
+      <stop offset=".3" stop-color="#FF8E8E"/>
+      <stop offset=".7" stop-color="#FFB6B6"/>
+      <stop offset="1" stop-color="#FFC9C9"/>
+    </linearGradient>
+    <path d="M109.4 180.7h-10V109c0-23.2-18.8-42-42-42s-42 18.8-42 42v71.7H5.9c-3.5 0-6.3 2.8-6.3 6.3s2.8 6.2 6.3 6.2h103.5c3.5 0 6.3-2.8 6.3-6.3s-2.8-6.2-6.3-6.2z" fill="url(#playerBody)"/>
+    
+    <!-- Face -->
+    <circle cx="40.7" cy="99" r="17.9" fill="#FDBCB4"/>
+    <circle cx="40.7" cy="105.6" r="12.5" fill="#8B4513"/>
+    <circle cx="74.3" cy="99" r="17.9" fill="#FDBCB4"/>
+    <circle cx="74.3" cy="105.6" r="12.5" fill="#8B4513"/>
+    
+    <!-- Helmet -->
+    <path d="M56.9 130.3c6.4 0 11.9-4 14.1-9.7H42.7c2.2 5.7 7.7 9.7 14.2 9.7z" fill="#FF4500"/>
+  </g>
+  
+  <!-- Cricket Ball -->
+  <g transform="translate(20 359)">
+    <circle cx="10.7" cy="70" r="10.7" fill="#DC143C"/>
+    <path d="M10.7 0v68.3" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <path d="M5 70c0-3 2.5-5.7 5.7-5.7s5.7 2.7 5.7 5.7" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+  
+  <!-- Wicket Keeper Gloves -->
+  <g transform="translate(20 460)">
+    <circle cx="11.3" cy="11.3" r="11.3" fill="#8B4513"/>
+    <path d="M43.3 111.8L11.5 12.1" fill="none" stroke="#8B4513" stroke-width="7.7"/>
+    <rect x="5" y="5" width="12.6" height="12.6" fill="#F5DEB3" rx="3"/>
+  </g>
+  
+  <!-- Boundary Rope -->
+  <path d="M26 640.2L67.2 599M26 599l41.2 41.2" fill="none" stroke="#32CD32" stroke-linecap="round" stroke-width="12"/>
+  
+  <!-- Additional Cricket Elements -->
+  <!-- Clouds -->
+  <path d="M213.8 718.8c-11.1 0-20.1-9-20.1-20.1 0-3.3 0.8-6.4 2.2-9.1-5.4-3.2-9.1-9.1-9.1-15.9 0-10.1 8.2-18.3 18.3-18.3 2.7 0 5.3 0.6 7.6 1.7 3.8-7.6 11.6-12.8 20.5-12.8 12.8 0 23.1 10.4 23.1 23.1 0 1.2-0.1 2.4-0.3 3.5h-41.9c-0.2 1.1-0.3 2.3-0.3 3.5 0 11.1-9 20.1-20.1 20.1zm-27.3 66.2c-23.2 0-42-18.8-42-42 0-6.9 1.7-13.4 4.7-19.1-7.9-5.2-13.1-14.2-13.1-24.4 0-16.1 13.1-29.2 29.2-29.2h166l.2-4.2z" fill="#E6E6FA"/>
+  
+  <!-- Sun -->
+  <g transform="translate(20 810)">
+    <defs>
+      <path d="M42.8 130.3c8.6 0 15.6-7 15.6-15.6s-7-15.6-15.6-15.6-15.6 7-15.6 15.6 7 15.6 15.6 15.6z" fill="#FFD700" id="sun"/>
+      <path d="M23 130.3c-8.6 0-15.6-7-15.6-15.6s7-15.6 15.6-15.6 15.6 7 15.6 15.6-7 15.6-15.6 15.6z" fill="#FFD700" id="sunRay"/>
+    </defs>
+    <path d="M33 432V0" fill="none" stroke="#FFD700" stroke-width="4"/>
+    <use xlink:href="#sun"/>
+    <use transform="translate(0 -38.5)" xlink:href="#sun"/>
+    <use transform="translate(0 -77)" xlink:href="#sun"/>
+    <use transform="translate(0 -115.5)" xlink:href="#sun"/>
+    <use xlink:href="#sunRay"/>
+    <use transform="translate(0 -38.5)" xlink:href="#sunRay"/>
+    <use transform="translate(0 -77)" xlink:href="#sunRay"/>
+    <use transform="translate(0 -115.5)" xlink:href="#sunRay"/>
+  </g>
+  
+  <!-- Cricket Pitch -->
+  <g transform="translate(20 1262)">
+    <rect x="0" y="0" width="48.8" height="51" fill="#8FBC8F" rx="5"/>
+    <path d="M18.6 10.5L46 16.2l-1.4 6.6L17.2 17zm-2.8 13.5l27.4 5.7-1.4 6.6-27.4-5.7zm-2.8 13.4l27.4 5.7-1.4 6.6L11.6 44z" fill="#228B22"/>
+    <path d="M29 56l9.2 6.8L32 78.5h8.7" fill="none" stroke="#8B4513" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path d="M4 33.7C0 48.3-1 61.4.8 68l5-2.8 2.9 5C13.5 65.4 19 53.4 23 38.7c5-18.6 5.3-35 1-38.1l-4 .2C14.9 4.2 8.3 17.3 4 33.7zM20 .8l4-.2c-.2-.3-.6-.4-1-.5-.8-.3-1.9 0-3 .7z" fill="#2F4F2F"/>
+  </g>
+  
+  <!-- Stadium Lights -->
+  <g transform="translate(20 1363)">
+    <path d="M44 112.6A64.6 64.6 0 0 1 6.3 71c-9-27.7-.6-56 18.7-68.2" fill="none" stroke="#FFD700" stroke-linecap="round" stroke-width="5.5"/>
+    <circle cx="90.5" cy="109.1" r="29.1" fill="#FFFF00"/>
+    <circle cx="95" cy="100.3" r="20.3" fill="#FFA500"/>
+  </g>
+  
+  <!-- Cricket Field Elements -->
+  <g transform="translate(20 1550)">
+    <!-- Field Markings -->
+    <ellipse cx="64.3" cy="99" rx="45" ry="25" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <line x1="20" y1="99" x2="108" y2="99" stroke="#FFFFFF" stroke-width="2"/>
+    <!-- Boundary -->
+    <path d="M57 139.1c-8-6-19.2-4.6-25.3 3-1.6 2-2.6 4.1-3.2 6.3" fill="none" stroke="#32CD32" stroke-width="3"/>
+  </g>
+  
+  <!-- Scoreboard -->
+  <g transform="translate(20 1783)">
+    <rect x="0" y="0" width="140" height="80" fill="#4B0082" rx="5"/>
+    <text x="70" y="25" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="14">SCORE</text>
+    <text x="70" y="45" text-anchor="middle" fill="#00FF00" font-family="Arial" font-size="18">000/0</text>
+    <text x="70" y="65" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="12">OVERS: 0.0</text>
+  </g>
+  
+  <!-- Team Logo Area -->
+  <g transform="translate(20 2029)">
+    <circle cx="50" cy="50" r="40" fill="#FF6B6B"/>
+    <path d="M30 35l20 15-20 15V35z" fill="#FFFFFF"/>
+    <text x="50" y="105" text-anchor="middle" fill="#333" font-family="Arial" font-size="12">CRICKET</text>
+  </g>
+  
+  <!-- Additional Players -->
+  <g transform="translate(20 2168)">
+    <!-- Bowler -->
+    <g fill="#4169E1">
+      <ellipse cx="73.6" cy="41.4" rx="12" ry="8"/>
+      <circle cx="73.6" cy="30.5" r="8"/>
+      <rect x="68" y="45" width="11" height="25" rx="3"/>
+      <circle cx="67" cy="75" r="4"/>
+      <circle cx="80" cy="75" r="4"/>
+    </g>
+    <!-- Fielder -->
+    <g fill="#228B22">
+      <ellipse cx="150" cy="41.4" rx="12" ry="8"/>
+      <circle cx="150" cy="30.5" r="8"/>
+      <rect x="144" y="45" width="11" height="25" rx="3"/>
+      <circle cx="143" cy="75" r="4"/>
+      <circle cx="156" cy="75" r="4"/>
+    </g>
+  </g>
+  
+  <!-- Cricket Equipment -->
+  <g transform="translate(20 2256)">
+    <!-- Helmet -->
+    <path d="M492.8 117.5h-7c-6.6 0-12-5.4-12-12V44.8c0-6.6 5.4-12 12-12h7c6.6 0 12 5.4 12 12v60.7c0 6.6-5.4 12-12 12z" fill="#FF4500"/>
+    <!-- Gloves -->
+    <rect x="460" y="40" width="15" height="25" fill="#8B4513" rx="3"/>
+    <rect x="520" y="40" width="15" height="25" fill="#8B4513" rx="3"/>
+  </g>
+  
+  <!-- Ground Pattern -->
+  <g transform="translate(20 5420)">
+    <pattern id="grassPattern" patternUnits="userSpaceOnUse" width="20" height="20">
+      <rect width="20" height="20" fill="#90EE90"/>
+      <path d="M0 0l20 20M20 0L0 20" stroke="#228B22" stroke-width="1" opacity="0.3"/>
+    </pattern>
+    <rect x="0" y="0" width="245.4" height="172.2" fill="url(#grassPattern)"/>
+  </g>
+  
+  <!-- Final Elements -->
+  <g transform="translate(20 5746)">
+    <!-- Trophy -->
+    <path d="M279.2 47.9c0-16.9-13.7-30.5-30.5-30.5s-30.5 13.7-30.5 30.5v1c0 16.9 13.7 30.5 30.5 30.5s30.5-13.7 30.5-30.5v-1z" fill="#FFD700"/>
+    <rect x="235" y="80" width="28" height="40" fill="#FFD700"/>
+    <ellipse cx="249" cy="130" rx="20" ry="8" fill="#B8860B"/>
+  </g>
+  
+  <!-- Video Play Button -->
+  <g transform="translate(20 6236)">
+    <circle cx="71" cy="77.6" r="50" fill="#FF0000" opacity="0.9"/>
+    <path d="M129.2 69.5L26 9.3c-7.3-4.3-16.6-.9-16.6 6.1v115.1c0 7 9.3 10.4 16.5 10.7L129.2 87.7c6.8-4.1 6.8-13.6-.5-18.2z" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Social Media Icons -->
+  <g transform="translate(20 6650)">
+    <rect x="0" y="0" width="50" height="50" fill="#1DA1F2" rx="8"/>
+    <path d="M41.434 26.2c21.571 0 33.362-17.847 33.362-33.339 0-.5 0-1.006-.046-1.509a24.247 24.247 0 0 0 5.85-6.078 22.333 22.333 0 0 1-6.741 1.828A11.762 11.762 0 0 0 51.6 14.164a33.183 33.183 0 0 1-24.154-12.225A11.723 11.723 0 0 0 31.08 17.569a11.655 11.655 0 0 1-5.325-1.463v.16a11.724 11.724 0 0 0 9.392 11.472 11.768 11.768 0 0 1-5.278.228 11.744 11.744 0 0 0 10.968 8.112 23.536 23.536 0 0 1-17.367 4.867 33.363 33.363 0 0 0 17.961 5.256" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Additional UI Elements -->
+  <g transform="translate(20 7058)">
+    <rect x="0" y="0" width="200" height="50" fill="#4CAF50" rx="25"/>
+    <text x="100" y="32" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-size="16" font-weight="bold">PLAY CRICKET</text>
+  </g>
+  
+  <!-- Loading Animation -->
+  <g transform="translate(20 7262)">
+    <circle cx="25" cy="25" r="20" fill="none" stroke="#FF6B6B" stroke-width="4" stroke-dasharray="31.416" stroke-dashoffset="31.416">
+      <animate attributeName="stroke-dasharray" dur="2s" values="0 31.416;15.708 15.708;0 31.416" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" dur="2s" values="0;-15.708;-31.416" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Final Cricket themed elements -->
+  <g transform="translate(20 9506)">
+    <path d="M34 15.7l18.6 11.7c3.8 2.4 3.8 8.4 0 10.8L34 49.8c-3.8 2.4-8.6 2.4-12.4 0L3 38.2c-3.8-2.4-3.8-8.4 0-10.8L21.6 15.7c3.8-2.4 8.6-2.4 12.4 0z" fill="#FF6B6B"/>
+    <circle cx="28" cy="32.7" r="8" fill="#FFFFFF"/>
+    <text x="28" y="36" text-anchor="middle" fill="#FF6B6B" font-family="Arial" font-size="8">C</text>
+  </g>
+</svg>
